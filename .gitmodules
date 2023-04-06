@@ -1,0 +1,3 @@
+[submodule "dontmanage-ui"]
+	path = dontmanage-ui
+	url = https://github.com/dontmanage/dontmanage-ui

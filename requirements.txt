@@ -1,0 +1,2 @@
+# dontmanage -- https://github.com/dontmanage/dontmanage is installed via 'bench init'
+rembg==2.0.29
