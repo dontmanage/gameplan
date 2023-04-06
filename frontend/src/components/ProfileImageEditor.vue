@@ -82,7 +82,7 @@
   </FileUploader>
 </template>
 <script>
-import { FileUploader } from 'dontmanage-ui'
+import { FileUploader } from 'frappe-ui'
 import ColorPicker, { getRandomColor } from './ColorPicker.vue'
 
 export default {

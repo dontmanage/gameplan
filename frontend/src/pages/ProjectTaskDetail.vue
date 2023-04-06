@@ -169,7 +169,7 @@
   </div>
 </template>
 <script>
-import { Avatar, TextEditor, Autocomplete, Dropdown } from 'dontmanage-ui'
+import { Avatar, TextEditor, Autocomplete, Dropdown } from 'frappe-ui'
 import CommentsArea from '@/components/CommentsArea.vue'
 import ReadmeEditor from '@/components/ReadmeEditor.vue'
 import { focus } from '@/directives'

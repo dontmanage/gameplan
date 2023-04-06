@@ -34,7 +34,7 @@
   <AddMemberDialog :resource="team" v-model="inviteMemberDialog" />
 </template>
 <script>
-import { Avatar } from 'dontmanage-ui'
+import { Avatar } from 'frappe-ui'
 import AddMemberDialog from '@/components/AddMemberDialog.vue'
 
 export default {

@@ -80,9 +80,9 @@
   </div>
 </template>
 <script>
-import { Popover, Tooltip, ErrorMessage } from 'dontmanage-ui'
+import { Popover, Tooltip, ErrorMessage } from 'frappe-ui'
 import ReactionFaceIcon from './ReactionFaceIcon.vue'
-import LoadingIndicator from 'dontmanage-ui/src/components/LoadingIndicator.vue'
+import LoadingIndicator from 'frappe-ui/src/components/LoadingIndicator.vue'
 
 export default {
   name: 'Reactions',

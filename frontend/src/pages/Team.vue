@@ -55,7 +55,7 @@
   </div>
 </template>
 <script>
-import { Dropdown, Badge, Tooltip, FeatherIcon } from 'dontmanage-ui'
+import { Dropdown, Badge, Tooltip, FeatherIcon } from 'frappe-ui'
 import TeamHomeMembers from './TeamHomeMembers.vue'
 import IconPicker from '@/components/IconPicker.vue'
 import Tabs from '@/components/Tabs.vue'

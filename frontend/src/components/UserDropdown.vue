@@ -38,7 +38,7 @@
 </template>
 <script>
 import { defineAsyncComponent } from 'vue'
-import { FeatherIcon, Dropdown, Link } from 'dontmanage-ui'
+import { FeatherIcon, Dropdown, Link } from 'frappe-ui'
 
 export default {
   name: 'UserDropdown',

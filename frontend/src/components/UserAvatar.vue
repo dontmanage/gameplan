@@ -10,7 +10,7 @@
   />
 </template>
 <script>
-import { Avatar } from 'dontmanage-ui'
+import { Avatar } from 'frappe-ui'
 
 export default {
   name: 'UserAvatar',

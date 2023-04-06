@@ -12,7 +12,7 @@ import {
   dontmanageRequest,
   pageMetaPlugin,
   resourcesPlugin,
-} from 'dontmanage-ui'
+} from 'frappe-ui'
 import router from './router'
 import App from './App.vue'
 import UserInfo from '@/components/UserInfo.vue'
@@ -26,8 +26,8 @@ import { userInfo, users } from './data/users'
 import { session } from './data/session'
 import socket from './socket'
 import resetDataMixin from './utils/resetDataMixin'
-import { getCachedListResource } from 'dontmanage-ui/src/resources/listResource'
-import { getCachedResource } from 'dontmanage-ui/src/resources/resources'
+import { getCachedListResource } from 'frappe-ui/src/resources/listResource'
+import { getCachedResource } from 'frappe-ui/src/resources/resources'
 
 let globalComponents = {
   Button,

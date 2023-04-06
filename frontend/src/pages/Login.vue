@@ -84,7 +84,7 @@
 </template>
 <script setup>
 import { ref } from 'vue'
-import { createResource } from 'dontmanage-ui'
+import { createResource } from 'frappe-ui'
 import { session } from '@/data/session'
 import GameplanLogo from '@/components/GameplanLogo.vue'
 import GameplanLogoType from '@/components/GameplanLogoType.vue'

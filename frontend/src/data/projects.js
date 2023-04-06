@@ -1,4 +1,4 @@
-import { createListResource } from 'dontmanage-ui'
+import { createListResource } from 'frappe-ui'
 
 export let projects = createListResource({
   doctype: 'GP Project',

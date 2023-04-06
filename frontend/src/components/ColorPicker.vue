@@ -32,7 +32,7 @@
   </Popover>
 </template>
 <script>
-import { Popover } from 'dontmanage-ui'
+import { Popover } from 'frappe-ui'
 import { theme } from '@/utils/theme'
 import { getRandomNumber } from '@/utils'
 

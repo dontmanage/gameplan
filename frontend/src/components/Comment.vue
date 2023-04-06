@@ -157,7 +157,7 @@
   </div>
 </template>
 <script>
-import { Dropdown } from 'dontmanage-ui'
+import { Dropdown } from 'frappe-ui'
 import { copyToClipboard } from '@/utils'
 import UserProfileLink from './UserProfileLink.vue'
 import CommentEditor from './CommentEditor.vue'

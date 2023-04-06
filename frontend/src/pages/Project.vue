@@ -235,7 +235,7 @@ import {
   dontmanageRequest,
   Input,
   Tooltip,
-} from 'dontmanage-ui'
+} from 'frappe-ui'
 import Pie from '@/components/Pie.vue'
 import IconPicker from '@/components/IconPicker.vue'
 import Links from '@/components/Links.vue'

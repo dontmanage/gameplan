@@ -52,7 +52,7 @@
   </div>
 </template>
 <script>
-import { Tooltip } from 'dontmanage-ui'
+import { Tooltip } from 'frappe-ui'
 import TextEditor from '@/components/TextEditor.vue'
 export default {
   name: 'ReadmeEditor',

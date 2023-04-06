@@ -53,7 +53,7 @@
 </template>
 <script>
 import { h, computed } from 'vue'
-import { Dropdown, FeatherIcon } from 'dontmanage-ui'
+import { Dropdown, FeatherIcon } from 'frappe-ui'
 import InvitePeople from './InvitePeople.vue'
 import { users } from '@/data/users'
 

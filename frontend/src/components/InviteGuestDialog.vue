@@ -43,7 +43,7 @@
   </Dialog>
 </template>
 <script setup>
-import { createListResource, Tooltip } from 'dontmanage-ui'
+import { createListResource, Tooltip } from 'frappe-ui'
 import { ref, computed } from 'vue'
 
 const props = defineProps(['modelValue', 'project'])

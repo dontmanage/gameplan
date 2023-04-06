@@ -109,7 +109,7 @@
 import TextEditor from '@/components/TextEditor.vue'
 import { focus } from '@/directives'
 import UserProfileLink from '@/components/UserProfileLink.vue'
-import TextEditorFixedMenu from 'dontmanage-ui/src/components/TextEditor/TextEditorFixedMenu.vue'
+import TextEditorFixedMenu from 'frappe-ui/src/components/TextEditor/TextEditorFixedMenu.vue'
 
 export default {
   name: 'ProjectDiscussionNew',

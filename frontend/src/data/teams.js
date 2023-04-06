@@ -1,4 +1,4 @@
-import { createListResource, createResource } from 'dontmanage-ui'
+import { createListResource, createResource } from 'frappe-ui'
 import { computed } from 'vue'
 
 export let teams = createListResource({

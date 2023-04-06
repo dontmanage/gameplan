@@ -107,7 +107,7 @@
   </div>
 </template>
 <script>
-import { Avatar, Popover, Tooltip } from 'dontmanage-ui'
+import { Avatar, Popover, Tooltip } from 'frappe-ui'
 import TabButtons from '@/components/TabButtons.vue'
 
 export default {

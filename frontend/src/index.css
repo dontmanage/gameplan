@@ -1,5 +1,5 @@
 @import './assets/Inter/inter.css';
-@import 'dontmanage-ui/src/style.css';
+@import 'frappe-ui/src/style.css';
 
 /* disable webkit tap highlight color */
 body {

@@ -28,7 +28,7 @@
   </div>
 </template>
 <script>
-import { Avatar, Autocomplete, Input } from 'dontmanage-ui'
+import { Avatar, Autocomplete, Input } from 'frappe-ui'
 import TextEditor from '@/components/TextEditor.vue'
 
 export default {

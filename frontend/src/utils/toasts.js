@@ -1,5 +1,5 @@
 import { h, reactive, ref } from 'vue'
-import Toast from 'dontmanage-ui/src/components/Toast.vue'
+import Toast from 'frappe-ui/src/components/Toast.vue'
 
 let toasts = ref([])
 

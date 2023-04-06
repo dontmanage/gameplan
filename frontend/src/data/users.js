@@ -1,4 +1,4 @@
-import { createResource } from 'dontmanage-ui'
+import { createResource } from 'frappe-ui'
 import { reactive } from 'vue'
 import router from '@/router'
 import { session } from './session'

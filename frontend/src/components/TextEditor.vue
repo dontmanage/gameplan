@@ -12,7 +12,7 @@
   </FTextEditor>
 </template>
 <script>
-import { TextEditor as FTextEditor } from 'dontmanage-ui'
+import { TextEditor as FTextEditor } from 'frappe-ui'
 export default {
   name: 'TextEditor',
   inheritAttrs: false,

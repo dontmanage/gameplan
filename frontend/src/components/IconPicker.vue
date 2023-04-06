@@ -48,7 +48,7 @@
   </Popover>
 </template>
 <script>
-import { debounce, Popover } from 'dontmanage-ui'
+import { debounce, Popover } from 'frappe-ui'
 import { gemoji } from 'gemoji'
 
 export default {

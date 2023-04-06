@@ -120,7 +120,7 @@
   </div>
 </template>
 <script>
-import { Dialog, FileUploader } from 'dontmanage-ui'
+import { Dialog, FileUploader } from 'frappe-ui'
 import CoverImage from '@/components/CoverImage.vue'
 import Tabs from '@/components/Tabs.vue'
 import ImagePreview from '../components/ImagePreview.vue'

@@ -109,7 +109,7 @@
   </div>
 </template>
 <script>
-import { Dropdown, Dialog, Resource } from 'dontmanage-ui'
+import { Dropdown, Dialog, Resource } from 'frappe-ui'
 import AddMemberDialog from '@/components/AddMemberDialog.vue'
 
 export default {

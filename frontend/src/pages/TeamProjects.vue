@@ -112,7 +112,7 @@
   </div>
 </template>
 <script>
-import { Dialog } from 'dontmanage-ui'
+import { Dialog } from 'frappe-ui'
 import { projects, getTeamProjects } from '@/data/projects'
 import TabButtons from '@/components/TabButtons.vue'
 

@@ -133,7 +133,7 @@
   </Dialog>
 </template>
 <script>
-import { ErrorMessage } from 'dontmanage-ui'
+import { ErrorMessage } from 'frappe-ui'
 import {
   Combobox,
   ComboboxInput,

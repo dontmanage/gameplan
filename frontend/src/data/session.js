@@ -1,5 +1,5 @@
 import { computed, reactive } from 'vue'
-import { createResource } from 'dontmanage-ui'
+import { createResource } from 'frappe-ui'
 import { users } from './users'
 import router from '@/router'
 

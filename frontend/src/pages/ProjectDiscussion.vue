@@ -8,7 +8,7 @@
   </div>
 </template>
 <script>
-import { Avatar, TextEditor } from 'dontmanage-ui'
+import { Avatar, TextEditor } from 'frappe-ui'
 import Link from '@/components/Link.vue'
 import Reactions from '@/components/Reactions.vue'
 import DiscussionList from '@/components/DiscussionList.vue'

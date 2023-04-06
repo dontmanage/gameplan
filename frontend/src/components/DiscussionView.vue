@@ -255,7 +255,7 @@ import {
   Dialog,
   Tooltip,
   visibilityDirective,
-} from 'dontmanage-ui'
+} from 'frappe-ui'
 import Reactions from './Reactions.vue'
 import CommentsArea from '@/components/CommentsArea.vue'
 import CommentEditor from './CommentEditor.vue'

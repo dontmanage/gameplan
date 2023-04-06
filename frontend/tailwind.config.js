@@ -1,11 +1,11 @@
 // const
 module.exports = {
-  presets: [require('dontmanage-ui/src/utils/tailwind.config')],
+  presets: [require('frappe-ui/src/utils/tailwind.config')],
   content: [
     './index.html',
     './src/**/*.{vue,js,ts,jsx,tsx}',
-    './node_modules/dontmanage-ui/src/components/**/*.{vue,js,ts,jsx,tsx}',
-    '../node_modules/dontmanage-ui/src/components/**/*.{vue,js,ts,jsx,tsx}',
+    './node_modules/frappe-ui/src/components/**/*.{vue,js,ts,jsx,tsx}',
+    '../node_modules/frappe-ui/src/components/**/*.{vue,js,ts,jsx,tsx}',
   ],
   theme: {
     container: {

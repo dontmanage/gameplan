@@ -99,7 +99,7 @@
   </div>
 </template>
 <script>
-import { Autocomplete, Dropdown, Tooltip } from 'dontmanage-ui'
+import { Autocomplete, Dropdown, Tooltip } from 'frappe-ui'
 import { projects, getTeamProjects } from '@/data/projects'
 import { activeTeams } from '@/data/teams'
 

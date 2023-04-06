@@ -33,7 +33,7 @@
   </Dialog>
 </template>
 <script>
-import { Dialog } from 'dontmanage-ui'
+import { Dialog } from 'frappe-ui'
 import { teams } from '@/data/teams'
 
 export default {

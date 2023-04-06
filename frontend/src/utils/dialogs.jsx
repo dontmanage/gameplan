@@ -1,5 +1,5 @@
 import { h, reactive, ref, computed } from 'vue'
-import { Dialog, ErrorMessage } from 'dontmanage-ui'
+import { Dialog, ErrorMessage } from 'frappe-ui'
 
 let dialogs = ref([])
 

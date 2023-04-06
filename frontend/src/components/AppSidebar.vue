@@ -141,7 +141,7 @@
 </template>
 <script>
 import { Motion } from 'motion/vue'
-import { Tooltip, FeatherIcon } from 'dontmanage-ui'
+import { Tooltip, FeatherIcon } from 'frappe-ui'
 import Links from './Links.vue'
 import Link from './Link.vue'
 import AddTeamDialog from './AddTeamDialog.vue'

@@ -51,10 +51,10 @@ These are some of the tools it's built on:
 - [Socket.io](https://socket.io/)
 
 ### Frontend
-The frontend of Gameplan is a VueJS SPA which uses a component library called [DontManage UI](https://github.com/dontmanage/dontmanage-ui).
+The frontend of Gameplan is a VueJS SPA which uses a component library called [DontManage UI](https://github.com/dontmanage/frappe-ui).
 These are some of the tools used on frontend:
 - [VueJS](https://vuejs.org)
-- [DontManage UI](https://github.com/dontmanage/dontmanage-ui)
+- [DontManage UI](https://github.com/dontmanage/frappe-ui)
 - [TailwindCSS](https://tailwindcss.com)
 - [HeadlessUI](https://headlessui.com)
 

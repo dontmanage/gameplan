@@ -99,7 +99,7 @@
   </div>
 </template>
 <script>
-import { Badge, Input } from 'dontmanage-ui'
+import { Badge, Input } from 'frappe-ui'
 import Breadcrumbs from '@/components/Breadcrumbs.vue'
 
 export default {

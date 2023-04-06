@@ -63,7 +63,7 @@
 
 <script>
 // import { Popover, PopoverButton, PopoverPanel } from '@headlessui/vue'
-import { Popover, FileUploader } from 'dontmanage-ui'
+import { Popover, FileUploader } from 'frappe-ui'
 
 export default {
   name: 'UnsplashImageBrowser',

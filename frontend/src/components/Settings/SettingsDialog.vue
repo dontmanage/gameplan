@@ -29,7 +29,7 @@
 </template>
 <script>
 import { markRaw } from 'vue'
-import { Dialog, FeatherIcon } from 'dontmanage-ui'
+import { Dialog, FeatherIcon } from 'frappe-ui'
 import Members from './Members.vue'
 import ArchivedTeams from './ArchivedTeams.vue'
 

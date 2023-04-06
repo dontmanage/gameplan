@@ -61,7 +61,7 @@
   </router-link>
 </template>
 <script>
-import { Tooltip } from 'dontmanage-ui'
+import { Tooltip } from 'frappe-ui'
 
 export default {
   name: 'HomescreenProjectCard',

@@ -1,4 +1,4 @@
-import { createResource } from 'dontmanage-ui'
+import { createResource } from 'frappe-ui'
 
 export let unreadNotifications = createResource({
   cache: 'Unread Notifications Count',

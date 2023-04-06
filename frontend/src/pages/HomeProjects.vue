@@ -131,7 +131,7 @@ import Unpin from '~icons/lucide/pin-off'
 import Draggable from 'vuedraggable'
 import HomescreenProjectCard from './HomeProjectCard.vue'
 import { Motion } from '@motionone/vue'
-import { Tooltip } from 'dontmanage-ui'
+import { Tooltip } from 'frappe-ui'
 import { useLocalStorage } from '@/utils/composables'
 
 export default {

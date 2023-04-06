@@ -5,14 +5,14 @@ declare module '@vue/runtime-core' {
   export interface GlobalComponents {
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
-    Button: typeof import('dontmanage-ui')['Button']
-    Input: typeof import('dontmanage-ui')['Input']
-    ErrorMessage: typeof import('dontmanage-ui')['ErrorMessage']
-    Dialog: typeof import('dontmanage-ui')['Dialog']
-    FeatherIcon: typeof import('dontmanage-ui')['FeatherIcon']
-    Alert: typeof import('dontmanage-ui')['Alert']
-    Badge: typeof import('dontmanage-ui')['Badge']
-    UserInfo: typeof import('dontmanage-ui')['UserInfo']
+    Button: typeof import('frappe-ui')['Button']
+    Input: typeof import('frappe-ui')['Input']
+    ErrorMessage: typeof import('frappe-ui')['ErrorMessage']
+    Dialog: typeof import('frappe-ui')['Dialog']
+    FeatherIcon: typeof import('frappe-ui')['FeatherIcon']
+    Alert: typeof import('frappe-ui')['Alert']
+    Badge: typeof import('frappe-ui')['Badge']
+    UserInfo: typeof import('frappe-ui')['UserInfo']
     UserAvatar: typeof import('./components/UserAvatar.vue')
   }
 }

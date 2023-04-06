@@ -64,7 +64,7 @@
   </div>
 </template>
 <script>
-import { Input, LoadingIndicator, ErrorMessage } from 'dontmanage-ui'
+import { Input, LoadingIndicator, ErrorMessage } from 'frappe-ui'
 import OnboardingStepTeam from './OnboardingStepTeam.vue'
 import OnboardingStepProject from './OnboardingStepProject.vue'
 import OnboardingStepInvites from './OnboardingStepInvites.vue'

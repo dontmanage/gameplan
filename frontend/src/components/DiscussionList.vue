@@ -143,7 +143,7 @@
   </div>
 </template>
 <script>
-import { TextEditor, Tooltip } from 'dontmanage-ui'
+import { TextEditor, Tooltip } from 'frappe-ui'
 import PinIcon from '~icons/lucide/pin'
 
 export default {
