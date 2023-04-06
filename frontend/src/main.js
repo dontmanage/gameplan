@@ -9,7 +9,7 @@ import {
   Badge,
   request,
   setConfig,
-  dontmanageRequest,
+  frappeRequest,
   pageMetaPlugin,
   resourcesPlugin,
 } from 'frappe-ui'
@@ -42,7 +42,7 @@ let globalComponents = {
   UserImage,
 }
 let app = createApp(App)
-setConfig('resourceFetcher', dontmanageRequest)
+setConfig('resourceFetcher', frappeRequest)
 app.use(resourcesPlugin)
 app.use(pageMetaPlugin)
 app.use(router)
@@ -83,6 +83,6 @@ if (import.meta.env.DEV) {
   window.$dialog = createDialog
   window.$toast = createToast
   window.$request = request
-  window.$dontmanageRequest = dontmanageRequest
+  window.$frappeRequest = frappeRequest
   window.$router = router
 }

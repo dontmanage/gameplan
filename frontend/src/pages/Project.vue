@@ -232,7 +232,7 @@ import { computed } from 'vue'
 import {
   Autocomplete,
   Dropdown,
-  dontmanageRequest,
+  frappeRequest,
   Input,
   Tooltip,
 } from 'frappe-ui'
@@ -338,7 +338,7 @@ export default {
   },
   methods: {
     pinProject() {
-      dontmanageRequest({
+      frappeRequest({
         url: 'dontmanage.client.insert',
         params: {
           doc: {
